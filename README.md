@@ -3,6 +3,9 @@
 ## I'm a full stack developer
 - Fun fact: I love olympic weightlifting and hope to compete one day.
 
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelvalenzuela)](https://github.com/michaelvalenzuela/github-readme-stats)
+
+
 ### Languages and Tools:
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -23,7 +26,6 @@
 ![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![VS_CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<br />
 <br />
 
 ### Connect with me:
