@@ -3,9 +3,7 @@
 ## Developer, Adventurer, and Competitor
 Hi! I'm an open-minded developer who is always looking for a fun challenge. I attended Long Beach State University to study the fundamentals of computer science and after completing my bachelor's degree, I moved on to work as a full-stack developer. A couple years later, I decided I wanted to invest more into myself and experience a coding bootcamp. I am now a graduate of the Accelerated Web Development Program from LearningFuze and currently searching for my next big project.
 
-- Fun fact: I love olympic weightlifting and hope to compete one day.
-
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelvalenzuela)](https://github.com/michaelvalenzuela/github-readme-stats)
+- Fun fact: I love olympic weightlifting and compete in national level events
 
 
 ### Languages and Tools:
